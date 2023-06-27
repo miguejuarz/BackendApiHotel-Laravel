@@ -246,7 +246,6 @@
 
 <p>Esta API te permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en cada una de las entidades mencionadas.</p>
 
-<p>Espero que esta información te sea útil para tu proyecto. Si tienes alguna otra pregunta, no dudes en preguntar.</p>
 
 ## License
 
